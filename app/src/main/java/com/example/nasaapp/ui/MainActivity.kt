@@ -13,6 +13,7 @@ import com.example.nasaapp.NASAViewModelFactory
 import com.example.nasaapp.R
 import com.example.nasaapp.ui.adapters.NasaRecAdapter
 import com.example.nasaapp.ui.adapters.NasaRecDtlAdapter
+
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), NasaRecAdapter.RecItemClickListner {
